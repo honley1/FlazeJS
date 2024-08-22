@@ -1,0 +1,5 @@
+.env
+app.log
+node_modules/
+/static/*
+!/static/
